@@ -3,7 +3,7 @@ JS Homework - The Pyschic Game
 
     This project is my first attempt to create a guess the random letter computer game, known here as "The Psychic Game".
     
-    Like many students of coding before me, there is a sense of horror when given new homework assignments. I found that this assignment was much more manageable, as simplistic as it is, by actually doing the pseudocoding in detail.....how do you eat an elephant?.....one bite at a time!
+    Like many students of coding before me, there is a sense of horror when given new homework assignments. I found that this assignment was much more manageable, as "simplistic" as it is, by actually doing the pseudocoding in detail.....how do you eat an elephant?.....one bite at a time!
 
     To begin with the game....
     Select a letter to see if your choice matches the computer's....remember:  you get 9 chances to win....
